@@ -1,0 +1,98 @@
+10-18 13:12:46.260  7743  7774 I TestRunner: started: side_menu_item_content(com.example.lunchtray.MenuContentTests)
+10-18 13:12:46.270  7743  7774 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-18 13:12:46.296  2006  2039 E system_server: Invalid ID 0x00000000.
+10-18 13:12:46.301  2006  2024 W InputReader: Device has associated, but no associated display id.
+10-18 13:12:46.304  2006  2024 I chatty  : uid=1000(system) Binder:2006_2 identical 38 lines
+10-18 13:12:46.304  2006  2024 W InputReader: Device has associated, but no associated display id.
+10-18 13:12:46.306  7743  7743 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@843354f
+10-18 13:12:46.314  2006  2024 W InputReader: Device has associated, but no associated display id.
+10-18 13:12:46.314  2006  2024 I chatty  : uid=1000(system) Binder:2006_2 identical 8 lines
+10-18 13:12:46.314  2006  2024 W InputReader: Device has associated, but no associated display id.
+10-18 13:12:46.322  1762  1930 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 18436096
+10-18 13:12:46.381  1776  2156 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+10-18 13:12:46.382  1776  1902 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+10-18 13:12:46.382  2006  2039 W InputReader: Device has associated, but no associated display id.
+10-18 13:12:46.382  2006  2039 I chatty  : uid=1000(system) android.anim identical 8 lines
+10-18 13:12:46.383  2006  2039 W InputReader: Device has associated, but no associated display id.
+10-18 13:12:46.384  7743  7778 D libEGL  : Emulator has host GPU support, qemu.gles is set to 1.
+10-18 13:12:46.384  7743  7778 W libc    : Unable to set property "qemu.gles" to "1": connection failed; errno=13 (Permission denied)
+10-18 13:12:46.386  7743  7778 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+10-18 13:12:46.386  7743  7778 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+10-18 13:12:46.387  7743  7778 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+10-18 13:12:46.390  2006  2039 W InputReader: Device has associated, but no associated display id.
+10-18 13:12:46.390  2006  2039 I chatty  : uid=1000(system) android.anim identical 8 lines
+10-18 13:12:46.390  2006  2039 W InputReader: Device has associated, but no associated display id.
+10-18 13:12:46.370  7743  7743 W RenderThread: type=1400 audit(0.0:47): avc: denied { write } for name="property_service" dev="tmpfs" ino=7365 scontext=u:r:untrusted_app:s0:c147,c256,c512,c768 tcontext=u:object_r:property_socket:s0 tclass=sock_file permissive=0 app=com.example.lunchtray
+10-18 13:12:46.404  7743  7743 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f7c79e5 in: PRE_ON_CREATE
+10-18 13:12:46.405  7743  7743 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f7c79e5
+10-18 13:12:46.416  7743  7743 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f7c79e5 in: CREATED
+10-18 13:12:46.417  7743  7743 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f7c79e5
+10-18 13:12:46.419  7743  7743 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f7c79e5 in: STARTED
+10-18 13:12:46.419  7743  7743 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f7c79e5
+10-18 13:12:46.429  7743  7743 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f7c79e5 in: RESUMED
+10-18 13:12:46.429  7743  7743 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f7c79e5
+10-18 13:12:46.432  7743  7743 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f7c79e5 in: PAUSED
+10-18 13:12:46.432  7743  7743 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f7c79e5
+10-18 13:12:46.432  2006  2024 W InputReader: Device has associated, but no associated display id.
+10-18 13:12:46.436  2006  2024 I chatty  : uid=1000(system) Binder:2006_2 identical 58 lines
+10-18 13:12:46.436  2006  2024 W InputReader: Device has associated, but no associated display id.
+10-18 13:12:46.438  7743  7743 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@8734912
+10-18 13:12:46.469  7743  7743 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@802103f in: PRE_ON_CREATE
+10-18 13:12:46.469  7743  7743 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-18 13:12:46.515  7743  7743 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@802103f in: CREATED
+10-18 13:12:46.515  7743  7743 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@802103f
+10-18 13:12:46.518  7743  7743 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@802103f in: STARTED
+10-18 13:12:46.518  7743  7743 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@802103f
+10-18 13:12:46.519  7743  7743 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@802103f in: RESUMED
+10-18 13:12:46.519  7743  7743 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@802103f
+10-18 13:12:46.532  7743  7743 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f7c79e5 in: STOPPED
+10-18 13:12:46.533  7743  7743 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f7c79e5
+10-18 13:12:46.548  7743  7776 D HostConnection: HostConnection::get() New Host Connection established 0xd907aae0, tid 7776
+10-18 13:12:46.549  7743  7776 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+10-18 13:12:46.551  7743  7776 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-18 13:12:46.598  7743  7776 D EGL_emulation: eglCreateContext: 0xe475fe80: maj 2 min 0 rcv 2
+10-18 13:12:46.604  7743  7776 D EGL_emulation: eglMakeCurrent: 0xe475fe80: ver 2 0 (tinfo 0xd90c1540)
+10-18 13:12:46.613  1762  1930 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 18436096
+10-18 13:12:46.633  1650  1650 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@3.0::IMapper/default in either framework or device manifest.
+10-18 13:12:46.634  7743  7776 W Gralloc3: mapper 3.x is not supported
+10-18 13:12:46.676  7743  7776 D HostConnection: createUnique: call
+10-18 13:12:46.677  7743  7776 D HostConnection: HostConnection::get() New Host Connection established 0xd907c070, tid 7776
+10-18 13:12:46.677  7743  7776 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+10-18 13:12:46.677  7743  7776 D eglCodecCommon: allocate: Ask for block of size 0x1000
+10-18 13:12:46.678  7743  7776 D eglCodecCommon: allocate: ioctl allocate returned offset 0x3ffff6000 size 0x2000
+10-18 13:12:46.683  1762  1930 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 18436096
+10-18 13:12:47.225  1762  1930 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 18436096
+10-18 13:12:47.226  7743  7776 D EGL_emulation: eglMakeCurrent: 0xe475fe80: ver 2 0 (tinfo 0xd90c1540)
+10-18 13:12:47.226  2473  3220 D EGL_emulation: eglMakeCurrent: 0xdc51aa80: ver 2 0 (tinfo 0xdc50fa30)
+10-18 13:12:47.233  3034  3645 D EGL_emulation: eglMakeCurrent: 0xdc51b260: ver 2 0 (tinfo 0xbed7a090)
+10-18 13:12:47.279  2006  2043 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +997ms
+10-18 13:12:47.334  3034  3657 I PBSessionCacheImpl: Deleted sessionId[154099936931] from persistence.
+10-18 13:12:47.337  3034  3468 W SearchServiceCore: Abort, client detached.
+10-18 13:12:47.496  7743  7774 D EventInjectionStrategy: Creating injection strategy with input manager.
+10-18 13:12:47.496  7743  7774 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (greylist, reflection, allowed)
+10-18 13:12:47.496  7743  7774 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (greylist, reflection, allowed)
+10-18 13:12:47.496  7743  7774 W ample.lunchtra: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (greylist, reflection, allowed)
+10-18 13:12:47.618  7743  7743 W ample.lunchtra: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (greylist, reflection, allowed)
+10-18 13:12:47.618  7743  7743 W ample.lunchtra: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (greylist, reflection, allowed)
+10-18 13:12:47.618  7743  7743 W ample.lunchtra: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (greylist, reflection, allowed)
+10-18 13:12:47.619  7743  7774 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->getUnsafe()Lsun/misc/Unsafe; (greylist,core-platform-api, linking, allowed)
+10-18 13:12:47.619  7743  7774 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->objectFieldOffset(Ljava/lang/reflect/Field;)J (greylist,core-platform-api, linking, allowed)
+10-18 13:12:47.620  7743  7774 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+10-18 13:12:47.622  7743  7783 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+10-18 13:12:47.622  7743  7783 W ample.lunchtra: Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+10-18 13:12:47.623  7743  7743 W ample.lunchtra: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (greylist, reflection, allowed)
+10-18 13:12:47.623  7743  7743 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (greylist, reflection, allowed)
+10-18 13:12:47.623  7743  7743 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (greylist, reflection, allowed)
+10-18 13:12:47.631  7743  7743 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Summer Salad"}' assertion on view view.getId() is <2131231138/com.example.lunchtray:id/salad>
+10-18 13:12:47.634  7743  7743 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Heirloom tomatoes"}' assertion on view view.getId() is <2131231139/com.example.lunchtray:id/salad_description>
+10-18 13:12:47.636  7743  7743 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "$2.50"}' assertion on view view.getId() is <2131231140/com.example.lunchtray:id/salad_price>
+10-18 13:12:47.637  7743  7743 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Butternut Squash"}' assertion on view view.getId() is <2131231187/com.example.lunchtray:id/soup>
+10-18 13:12:47.639  7743  7743 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Roasted butternut squash"}' assertion on view view.getId() is <2131231188/com.example.lunchtray:id/soup_description>
+10-18 13:12:47.640  7743  7743 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "$3.00"}' assertion on view view.getId() is <2131231189/com.example.lunchtray:id/soup_price>
+10-18 13:12:47.642  7743  7743 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Spicy Potatoes"}' assertion on view view.getId() is <2131231121/com.example.lunchtray:id/potatoes>
+10-18 13:12:47.644  7743  7743 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Marble potatoes"}' assertion on view view.getId() is <2131231119/com.example.lunchtray:id/potato_description>
+10-18 13:12:47.645  7743  7743 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "$2.00"}' assertion on view view.getId() is <2131231120/com.example.lunchtray:id/potato_price>
+10-18 13:12:47.646  7743  7743 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Coconut Rice"}' assertion on view view.getId() is <2131231128/com.example.lunchtray:id/rice>
+10-18 13:12:47.647  7743  7743 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Rice, coconut milk"}' assertion on view view.getId() is <2131231129/com.example.lunchtray:id/rice_description>
+10-18 13:12:47.649  7743  7743 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "$1.50"}' assertion on view view.getId() is <2131231130/com.example.lunchtray:id/rice_price>
+10-18 13:12:47.649  7743  7774 I TestRunner: finished: side_menu_item_content(com.example.lunchtray.MenuContentTests)
